@@ -46,6 +46,7 @@ Ce graphique représente l'évolution moyenne des populations rouge et bleue sur
 
 Ce graphique montre l'évolution des populations rouge et bleue après une simulation de dix jours.
 
+Si vous voulez, vous pouvez examiner notre code trouvé ici : https://github.com/are-dynamic-2024-g4/evo-de-la-population/blob/048e1bf5b31a7eae6b7a0da6e763498e03ee80bc/evo-de-la-population.ipynb
 # Bibliographie:
 Primer - Share or Take - https://www.youtube.com/watch?v=YNMkADpvO4w&ab_channel=Primer
 
