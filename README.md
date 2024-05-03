@@ -1,6 +1,6 @@
 # Evolution de la Population,
 # Introduction:
-Ce projet étudie les changements de population et les chances de survie de différentes espèces avec la seule différence dans leur agression.
+Ce projet étudie les changements de population et les chances de survie de différentes espèces avec la seule différence dans leur agression. 
 Nous avons utilisé Python pour créer différents types de simulations afin de mieux visualiser et comprendre les changements dans les populations.
 # Version Anglais:
 This project studies the population changes and the survival chance of different species with sole difference in their agression.
