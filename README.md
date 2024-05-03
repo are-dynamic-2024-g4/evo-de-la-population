@@ -48,5 +48,7 @@ Ce graphique montre l'évolution des populations rouge et bleue après une simul
 
 # Bibliographie:
 Primer - Share or Take - https://www.youtube.com/watch?v=YNMkADpvO4w&ab_channel=Primer
+
 The Selfish Gene, Richard Dawkins
+
 An Introduction to Behavioral Ecology
